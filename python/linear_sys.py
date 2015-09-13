@@ -3,7 +3,7 @@
 Created on Sun Sep 13 11:38:00 2015
 
 @author: Edmund Liu
-License: FreeBSD license
+License: BSD license
 
 reference:
 
